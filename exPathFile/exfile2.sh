@@ -1,0 +1,1 @@
+echo "Example: This is second sample file"

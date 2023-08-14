@@ -1,0 +1,1 @@
+echo "User input example: This is second sample input file"
